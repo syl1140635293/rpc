@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "rpc.service",
+      "type": "com.syl.rpc.config.MiniRpcProperties",
+      "sourceType": "com.syl.rpc.config.MiniRpcProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rpc.service.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.syl.rpc.config.MiniRpcProperties"
+    }
+  ],
+  "hints": []
+}
